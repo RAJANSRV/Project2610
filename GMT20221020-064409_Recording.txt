@@ -1,0 +1,7 @@
+00:49:12	Santhoshkumar:	1 to destroy
+01:18:35	Santhoshkumar:	I didn't configured backend and statelocking. my tf got locked . how to unlock now
+01:19:24	Santhoshkumar:	somehow i locked it. like i gave ctrl+c and stopped
+01:23:39	Santhoshkumar:	scp
+01:51:54	Santhoshkumar:	which one is the most important to ensure the integrity of your platform and data
+01:52:18	Santhoshkumar:	this was asked in interview
+01:52:47	Santhoshkumar:	actual ques is "Read the following Terraform best practices: https://cloud.google.com/docs/terraform/best-practices-for-terraform and explain to us in your opinion which one is the most important to ensure the integrity of your platform and data. Please explain the reason why you have chosen that answer."
